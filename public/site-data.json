@@ -1,14 +1,14 @@
 {
   "podcastVideos": [
-    { "title": "AI Art Podcast Episode 1", "url": "https://youtu.be/sMui14XvhjY", "active": true },
-    { "title": "AI Art Podcast Episode 2", "url": "https://youtu.be/sMui14XvhjY", "active": true },
-    { "title": "AI Art Podcast Episode 3", "url": "https://youtu.be/sMui14XvhjY", "active": true },
-    { "title": "AI Art Podcast Episode 4", "url": "https://youtu.be/sMui14XvhjY", "active": true }
+    { "title": "AI Art Podcast Episode 1", "url": "https://www.youtube.com/embed/sMui14XvhjY", "active": true },
+    { "title": "AI Art Podcast Episode 2", "url": "https://www.youtube.com/embed/sMui14XvhjY", "active": true },
+    { "title": "AI Art Podcast Episode 3", "url": "https://www.youtube.com/embed/sMui14XvhjY", "active": true },
+    { "title": "AI Art Podcast Episode 4", "url": "https://www.youtube.com/embed/sMui14XvhjY", "active": true }
   ],
   "cosmicVideos": [
-    { "title": "Cosmic Ambient 1", "url": "https://youtu.be/jgpJVI3tDT0", "active": true },
-    { "title": "Cosmic Ambient 2", "url": "https://youtu.be/1La4QzGeaaQ", "active": true },
-    { "title": "Cosmic Ambient 3", "url": "https://youtu.be/TqOneWeDtFI", "active": true },
-    { "title": "Cosmic Ambient 4", "url": "https://youtu.be/lFcSrYw-ARY", "active": true }
+    { "title": "Cosmic Ambient 1", "url": "https://www.youtube.com/embed/jgpJVI3tDT0", "active": true },
+    { "title": "Cosmic Ambient 2", "url": "https://www.youtube.com/embed/1La4QzGeaaQ", "active": true },
+    { "title": "Cosmic Ambient 3", "url": "https://www.youtube.com/embed/TqOneWeDtFI", "active": true },
+    { "title": "Cosmic Ambient 4", "url": "https://www.youtube.com/embed/lFcSrYw-ARY", "active": true }
   ]
 }
