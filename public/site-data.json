@@ -10,37 +10,5 @@
     { "title": "Cosmic Ambient 2", "url": "https://youtu.be/1La4QzGeaaQ", "active": true },
     { "title": "Cosmic Ambient 3", "url": "https://youtu.be/TqOneWeDtFI", "active": true },
     { "title": "Cosmic Ambient 4", "url": "https://youtu.be/lFcSrYw-ARY", "active": true }
-  ],
-  "feelCosmosVideos": [
-    { "title": "Feel the Cosmos 1", "url": "https://youtu.be/abcd1234", "active": true },
-    { "title": "Feel the Cosmos 2", "url": "https://youtu.be/abcd2345", "active": true },
-    { "title": "Feel the Cosmos 3", "url": "https://youtu.be/abcd3456", "active": true },
-    { "title": "Feel the Cosmos 4", "url": "https://youtu.be/abcd4567", "active": true }
-  ],
-  "nftVideos": [
-    { "title": "NFT Video 1", "url": "https://youtu.be/nftvideo1", "active": true },
-    { "title": "NFT Video 2", "url": "https://youtu.be/nftvideo2", "active": true },
-    { "title": "NFT Video 3", "url": "https://youtu.be/nftvideo3", "active": true },
-    { "title": "NFT Video 4", "url": "https://youtu.be/nftvideo4", "active": true }
-  ],
-  "nftCollections": [
-    { "name": "Collection 1", "url": "https://example.com/1", "customImage": "", "active": true },
-    { "name": "Collection 2", "url": "https://example.com/2", "customImage": "", "active": true },
-    { "name": "Collection 3", "url": "https://example.com/3", "customImage": "", "active": true },
-    { "name": "Collection 4", "url": "https://example.com/4", "customImage": "", "active": true },
-    { "name": "Collection 5", "url": "https://example.com/5", "customImage": "", "active": true },
-    { "name": "Collection 6", "url": "https://example.com/6", "customImage": "", "active": true }
-  ],
-  "socialLinks": {
-    "twitter": "https://twitter.com/yourprofile",
-    "youtube": "https://youtube.com/yourchannel",
-    "threads": "",
-    "facebook": "",
-    "telegram": "",
-    "tiktok": "",
-    "discord": "",
-    "linkedin": "",
-    "contra": "",
-    "webbie": ""
-  }
+  ]
 }
