@@ -1,0 +1,192 @@
+{
+  "links": [
+    {
+      "id": "1",
+      "title": "My YouTube Channel",
+      "url": "https://youtube.com/@example",
+      "icon": "youtube",
+      "active": true
+    },
+    {
+      "id": "2",
+      "title": "Twitter / X",
+      "url": "https://twitter.com/example",
+      "icon": "twitter",
+      "active": true
+    },
+    {
+      "id": "3",
+      "title": "Instagram",
+      "url": "https://instagram.com/example",
+      "icon": "instagram",
+      "active": true
+    }
+  ],
+  "cosmicVideos": [
+    {
+      "url": "https://www.youtube.com/embed/jgpJVI3tDT0",
+      "active": true
+    },
+    {
+      "url": "https://www.youtube.com/embed/1La4QzGeaaQ",
+      "active": true
+    },
+    {
+      "url": "https://www.youtube.com/embed/TqOneWeDtFI",
+      "active": true
+    },
+    {
+      "url": "https://www.youtube.com/embed/lFcSrYw-ARY",
+      "active": true
+    }
+  ],
+  "playlistVideos": [
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    }
+  ],
+  "feelCosmosVideos": [
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    }
+  ],
+  "feelCosmosSongs": [
+    {
+      "title": "",
+      "url": "",
+      "active": true
+    }
+  ],
+  "podcastVideos": [
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    }
+  ],
+  "nftVideos": [
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "active": true
+    }
+  ],
+  "nftCollections": [
+    {
+      "url": "",
+      "name": "",
+      "customImage": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "name": "",
+      "customImage": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "name": "",
+      "customImage": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "name": "",
+      "customImage": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "name": "",
+      "customImage": "",
+      "active": true
+    },
+    {
+      "url": "",
+      "name": "",
+      "customImage": "",
+      "active": true
+    }
+  ],
+  "cosmicAmbientVideos": [
+    {
+      "url": "",
+      "active": false
+    },
+    {
+      "url": "",
+      "active": false
+    },
+    {
+      "url": "",
+      "active": false
+    },
+    {
+      "url": "",
+      "active": false
+    }
+  ],
+  "settings": {
+    "contactEnabled": true,
+    "heroModalsEnabled": true,
+    "aboutMeText": "",
+    "learnMoreText": "",
+    "selectedBackground": "",
+    "playlistVideosActive": true,
+    "playlistSongsActive": true,
+    "feelCosmosSongsActive": true
+  },
+  "siteInfo": {
+    "siteName": "Cosmic Hub",
+    "siteDescription": "Explore the cosmos through AI art, music, and NFT collections"
+  }
+}

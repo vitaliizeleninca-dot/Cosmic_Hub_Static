@@ -1,0 +1,40 @@
+{
+  "links": [
+    {
+      "id": "1",
+      "title": "My YouTube Channel",
+      "url": "https://youtube.com/@example",
+      "icon": "youtube",
+      "active": true
+    },
+    {
+      "id": "2",
+      "title": "Twitter / X",
+      "url": "https://twitter.com/example",
+      "icon": "twitter",
+      "active": true
+    },
+    {
+      "id": "3",
+      "title": "Instagram",
+      "url": "https://instagram.com/example",
+      "icon": "instagram",
+      "active": true
+    }
+  ],
+  "cosmicVideos": [
+    "https://www.youtube.com/embed/jgpJVI3tDT0",
+    "https://www.youtube.com/embed/1La4QzGeaaQ",
+    "https://www.youtube.com/embed/TqOneWeDtFI",
+    "https://www.youtube.com/embed/lFcSrYw-ARY"
+  ],
+  "podcastVideos": [],
+  "nftCollections": [],
+  "settings": {
+    "contactEnabled": true,
+    "heroModalsEnabled": true,
+    "aboutMeText": "",
+    "learnMoreText": "",
+    "selectedBackground": ""
+  }
+}
